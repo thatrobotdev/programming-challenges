@@ -1,14 +1,17 @@
 #include <stdio.h>
 
+void swap(int* a, int* b) {
+    int temp = *a;
+    *a = *b;
+    *b = temp;
+}
+
 // Unoptomized Bubble Sort
 void sortColors(int* nums, int numsSize) {
     for (int i = 0; i < numsSize; i++) {
         for (int j = 0; j < numsSize - 1; j++) {
             if(nums[j] > nums[j + 1]) {
-                // swap
-                int temp = nums[j + 1];
-                nums[j + 1] = nums[j];
-                nums[j] = temp;
+                swap(nums + j, nums + j + 1);
             }
         }
     }
