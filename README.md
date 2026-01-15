@@ -8,9 +8,9 @@ My solutions and write-ups for LeetCode problems.
 
 | #  | Title | Solution | Difficulty | Topics |
 |----| ----- | -------- | ---------- | ------ |
-|2   | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](leetcode/two-sum/java/) | Easy | Array, Hash Table |
-|509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [C](leetcode/fibonacci-number/c/) | Easy | Math, Dynamic Programming, Recursion, Memoization |
-|3289| [The Two Sneaky Numbers of Digitville](https://leetcode.com/leetcode/the-two-sneaky-numbers-of-digitville/) | [Java](leetcode/the-two-sneaky-numbers-of-digitville/java/) | Easy | Array, Hash Table, Math |
+|2   | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](leetcode/2-two-sum/java/) | Easy | Array, Hash Table |
+|509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [C](leetcode/509-fibonacci-number/c/) | Easy | Math, Dynamic Programming, Recursion, Memoization |
+|3289| [The Two Sneaky Numbers of Digitville](https://leetcode.com/leetcode/the-two-sneaky-numbers-of-digitville/) | [Java](leetcode/3289-the-two-sneaky-numbers-of-digitville/java/) | Easy | Array, Hash Table, Math |
 
 ## License
 
